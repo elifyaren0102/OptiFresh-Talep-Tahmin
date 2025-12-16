@@ -1,2 +1,1 @@
-# OptiFresh-Talep-Tahmin
-Keskinoğlu için geliştirdiğim Yapay Zeka destekli talep tahminleme projesi
+# OptiFresh-Talep-Tahmin   Geliştirdiğim Yapay Zeka destekli talep tahminleme projesi
